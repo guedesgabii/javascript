@@ -1,0 +1,3 @@
+let friends = ['marcos', 'silvia', 'elisa']
+friends [2] = 'junior'
+console.log (friends)
